@@ -1,1 +1,1 @@
-This is my CS50 solved excercises
+This is the CS50 exercises i did last year(2023)
